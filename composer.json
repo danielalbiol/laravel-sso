@@ -1,5 +1,5 @@
 {
-    "name": "envidea/laravel-sso",
+    "name": "danialbiol/laravel-sso",
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
     "homepage": "https://github.com/danialbiol/laravel-sso",
