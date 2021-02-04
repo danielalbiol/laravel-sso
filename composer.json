@@ -3,7 +3,7 @@
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
     "homepage": "https://github.com/danielalbiol/laravel-sso",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [{
         "name": "Envidea Multimedia",
