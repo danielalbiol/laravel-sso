@@ -4,6 +4,7 @@
     "keywords": ["laravel", "sso", "authentication", "login"],
     "homepage": "https://github.com/danielalbiol/laravel-sso",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [{
         "name": "Envidea Multimedia",
